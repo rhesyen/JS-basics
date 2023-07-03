@@ -4,4 +4,4 @@ let array = [1, 2, 3, 4];
 let object = document.selector(h1);
 */
 
-console.log('Uwielbiam JavaScript!');
+let array = [10, 12, 13, 1];
