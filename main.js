@@ -1,8 +1,4 @@
-console.log('Nela!'); 
-let firstNumber = 1;
-let secondNumber = 3;
-
-function suma(a, b) {
-    return a + b;
-}
-console.log ( suma(firstNumber, secondNumber));
+let paragraph = document.querySelector('p');
+console.log(paragraph);
+paragraph.textContent = 'Teraz to!';
+console.log(paragraph);
